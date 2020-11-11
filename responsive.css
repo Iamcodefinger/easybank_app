@@ -1,0 +1,9 @@
+
+@media all and (max-width:375px) {
+  body{
+    margin:0;
+    padding:0;
+    background-color: white;
+  }
+   
+}
